@@ -1,5 +1,5 @@
 # Руль для ПК, OpenTrack, Android, XInput (Ru)
-Руль для ПК, эмулирующий Xbox геймпад, с использованием Android смартфона (с гироскопом) и OpenTrack. Эмулируются левый и правый триггеры, а также левый стик, обычно этого достаточно для гонок. 
+Руль для ПК, эмулирующий Xbox геймпад, с использованием Android смартфона (с гироскопом) и OpenTrack, по Wi-Fi или USB. Эмулируются левый и правый триггеры, а также левый стик, обычно этого достаточно для гонок. 
 Наклон вперед активирует правый триггер (движение вперед), а наклон назад левый триггер (движение назад). Наклонами влево и вправо активируется левый стик (движения влево, вправо). Наклоны плавно изменяют значения триггеров и стика.
 ## Настройка
 Загрузите и установите последнюю версию [OpenTrack](https://github.com/opentrack/opentrack/releases) и запустите её. Установите FreePie IMU на Android из архива.
@@ -22,7 +22,7 @@
 `r57zone[собака]gmail.com`
 
 # Steering wheel for PC, OpenTrack, Android, XInput (En)
-Steering wheel for PC, emulating Xbox gamepad, using Android smartphone (with gyroscope) and OpenTrack. Emulated left and right triggers, as well as left stick, usually this is enough for racing.
+Steering wheel for PC, emulating Xbox gamepad, using Android smartphone (with gyroscope) and OpenTrack over Wi-Fi or USB. Emulated left and right triggers, as well as left stick, usually this is enough for racing.
 The forward slope activates the right trigger (forward motion), and the backward slope of the left trigger (backward movement). The left stick (left, right) is activated by tilting left and right. Slopes smoothly change the values of triggers and stick.
 ## Setup
 Download and install the latest version of [OpenTrack](https://github.com/opentrack/opentrack/releases) and run it. Install FreePie IMU on Android from the archive.
