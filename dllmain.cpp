@@ -5,7 +5,6 @@
 
 #define DLLEXPORT extern "C" __declspec(dllexport)
 
-
 #define XINPUT_GAMEPAD_DPAD_UP          0x0001
 #define XINPUT_GAMEPAD_DPAD_DOWN        0x0002
 #define XINPUT_GAMEPAD_DPAD_LEFT        0x0004
